@@ -1,17 +1,32 @@
-# gerador_qr
+# Gerador de QR Code
 
-A new Flutter project.
+Aplicativo mobile desenvolvido em Flutter para geração de QR Codes a partir de textos e URLs.
 
-## Getting Started
+O projeto foi desenvolvido durante a disciplina de Desenvolvimento Mobile como parte da atividade N1E5.
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- Inserção de textos ou URLs
+- Geração de QR Code
+- Visualização do conteúdo utilizado
+- Limpeza do conteúdo inserido
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Tecnologias utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- Material Design
+
+## Dependência principal
+
+O projeto utiliza o pacote `qr_flutter` para geração dos QR Codes.
+
+- Pacote: qr_flutter
+- Versão utilizada: ^4.1.0
+
+## Como executar
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/matheustonolli/gerador-qr-flutter.git
