@@ -155,7 +155,7 @@ class _GeradorQrPageState extends State<GeradorQrPage> {
                 const SizedBox(height: 20),
 
                 const Text(
-                  'Conteúdo do QR Code:',
+                  'Conteúdo do QR Code ola tonolli:',
                   style: TextStyle(
                     fontWeight: FontWeight.bold,
                   ),
