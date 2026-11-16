@@ -77,7 +77,7 @@ class _GeradorQrPageState extends State<GeradorQrPage> {
               const SizedBox(height: 20),
 
               const Text(
-                'Digite um texto ou link para gerar um QR Code',
+                'Digite um texto ou link paral gerar um QR Code',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 20,
